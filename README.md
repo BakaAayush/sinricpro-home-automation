@@ -56,5 +56,5 @@ Unlike hardcoded Google APIs, Sinric Pro provides a **simple cloud interface** t
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/BakaAayush/esp8266-sinricpro-relay.git
-cd esp8266-sinricpro-relay
+git clone https://github.com/BakaAayush/sinricpro-home-automation.git
+cd sinricpro-home-automation
